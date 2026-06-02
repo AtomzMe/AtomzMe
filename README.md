@@ -9,7 +9,7 @@
 
    <a href="https://t.me/AtomzMe"><img src="https://img.shields.io/badge/Telegram-Chat%20With%20Me-blue?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc" alt="Telegram"></a>
    <a href="https://t.me/AtomzAi"><img src="https://img.shields.io/badge/Telegram-Main%20Channel-green?style=for-the-badge&logo=telegram&logoColor=white&color=00ff66" alt="Channel"></a>
-   <a href="https://x.com/AtomzMe"><img src="https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+   <a href="[https://x.com/AtomzMe](https://x.com/R3N0X9)"><img src="https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 
 <img src="https://capsule-render.vercel.app/type=waving&color=0d1117&height=80&section=header" width="100%">
 </div>
