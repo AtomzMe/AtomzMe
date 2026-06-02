@@ -80,10 +80,15 @@ I don’t just write code; I engineer digital ecosystems. **Atomz Code** is a hi
 ---
 
 ## 📊 Live System Status | حالة النظام المباشرة
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtomzMe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Atomz Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomzMe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=AtomzMe&show_icons=true&theme=tokyonight&count_private=true" alt="Atomz GitHub Stats" />
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtomzMe&theme=tokyonight" alt="Atomz Streak Stats" />
+
+</div>
 
 ---
 
