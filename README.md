@@ -1,15 +1,19 @@
 <div align="center">
 
-<!-- صورة البروفايل المتحركة أو اللوجو البكسل الفخم -->
+<!-- Profile Image -->
 <img src="https://raw.githubusercontent.com/AtomzMe/AtomzMe/main/image_0.png" width="130" style="border-radius: 50%; border: 3px solid #00ff66;" alt="Atomz Code">
 
 # 🫀 ATOMZ CODE 🫀
 ### *Where Complex Workflows Subside into Elite, Automated Systems*
 **أنظمة أتمتة وبوتات تليجرام احترافية هُندست بدقة متناهية وكود بايثون نظيف**
 
-   <a href="https://t.me/AtomzMe"><img src="https://img.shields.io/badge/Telegram-Chat%20With%20Me-blue?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc" alt="Telegram"></a>
-   <a href="https://t.me/AtomzAi"><img src="https://img.shields.io/badge/Telegram-Main%20Channel-green?style=for-the-badge&logo=telegram&logoColor=white&color=00ff66" alt="Channel"></a>
-   <a href="[https://x.com/AtomzMe](https://x.com/R3N0X9)"><img src="https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<br>
+
+<!-- Social Links -->
+<a href="https://t.me/AtomzMe"><img src="https://img.shields.io/badge/Telegram-Contact%20Me-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact"></a>
+<a href="https://t.me/AtomzAi"><img src="https://img.shields.io/badge/Telegram-Channel-00ff66?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
+<a href="https://x.com/R3N0X9"><img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
+<a href="https://www.reddit.com/user/-AT0Mz-/"><img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 
 <img src="https://capsule-render.vercel.app/type=waving&color=0d1117&height=80&section=header" width="100%">
 </div>
@@ -39,7 +43,7 @@ I don’t just write code; I engineer digital ecosystems. **Atomz Code** is a hi
       <h3>🤖 بوتات تليجرام مخصصة بالكامل</h3>
       <ul>
         <li><b>تحكم مطلق:</b> محركات بوتات مخصصة فائقة السرعة والأداء.</li>
-        <li><b>أمان عالي:</b> حماية تشفير صلبة للبيانات والملفات.</li>
+        <li><b>أمان عالي:</b> حماية وتشفير دقيق للبيانات والملفات.</li>
         <li><b>ربط الأنظمة:</b> دمج مرن مع أي منصة أو موقع أو APIs عالمية.</li>
       </ul>
     </td>
@@ -48,15 +52,15 @@ I don’t just write code; I engineer digital ecosystems. **Atomz Code** is a hi
     <td width="50%" valign="top">
       <h3>⚙️ Automation & App Development</h3>
       <ul>
-        <li><b>Web Scraping:</b> Secure, proxy-backed data extraction.</li>
+        <li><b>Web Scraping & Automation:</b> Secure data extraction and session management.</li>
         <li><b>Android Solutions:</b> High-end, tailored mobile applications.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ الأتمتة وتطبيقات الأندرويد</h3>
       <ul>
-        <li><b>سحب البيانات:</b> استخراج البيانات أوتوماتيكياً بأنظمة حماية ذكية.</li>
-        <li><b>تطبيقات أندرويد:</b> بناء وتعديل واجهات ومميزات تطبيقات ذكية.</li>
+        <li><b>الأتمتة وسحب البيانات:</b> استخراج البيانات أوتوماتيكياً وإدارة الجلسات بذكاء.</li>
+        <li><b>تطبيقات أندرويد:</b> بناء وتعديل واجهات ومميزات تطبيقات احترافية.</li>
       </ul>
     </td>
   </tr>
@@ -66,10 +70,11 @@ I don’t just write code; I engineer digital ecosystems. **Atomz Code** is a hi
 
 ## 🧰 Tech Arsenal | الأسلحة التقنية
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
 ---
@@ -84,9 +89,8 @@ I don’t just write code; I engineer digital ecosystems. **Atomz Code** is a hi
 
 <div align="center">
 <h3>📥 Initiate Your Engine | ابدأ مشروعك الآن</h3>
-If you value speed, precision, and human-crafted elite software, let’s build.
-
-إذا كنت تبحث عن السرعة، الدقة المطلقة، والبرمجيات الفخمة المبنية بحرفية بشرية كاملة، فلنبدأ الآن.
+<p>If you value speed, precision, and human-crafted elite software, let’s build.</p>
+<p>إذا كنت تبحث عن السرعة، الدقة المطلقة، والبرمجيات الفخمة المبنية بحرفية برمجية نقية، فلنبدأ الآن.</p>
 
 <h2><a href="https://t.me/AtomzMe">✉️ Contact Chief Developer</a></h2>
 
