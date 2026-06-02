@@ -13,7 +13,7 @@
 <a href="https://t.me/AtomzMe"><img src="https://img.shields.io/badge/Telegram-Contact%20Me-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact"></a>
 <a href="https://t.me/AtomzAi"><img src="https://img.shields.io/badge/Telegram-Channel-00ff66?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
 <a href="https://x.com/R3N0X9"><img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
-<a href="https://www.reddit.com/user/-AT0Mz-/"><img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+<a href="https://www.reddit.com/user/AT0MzFx/"><img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 
 </div>
 
