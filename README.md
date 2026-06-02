@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Profile Image -->
-<img src="https://raw.githubusercontent.com/AtomzMe/AtomzMe/main/image_0.png" width="130" style="border-radius: 50%; border: 3px solid #00ff66;" alt="Atomz Code">
+<img src="https://i.imgur.com/xROCvTk.png" width="400" style="border-radius: 50%; border: 3px solid #00ff66;" alt="Atomz Code">
 
 # 🫀 ATOMZ CODE 🫀
 ### *Where Complex Workflows Subside into Elite, Automated Systems*
@@ -15,7 +15,6 @@
 <a href="https://x.com/R3N0X9"><img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
 <a href="https://www.reddit.com/user/-AT0Mz-/"><img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 
-<img src="https://capsule-render.vercel.app/type=waving&color=0d1117&height=80&section=header" width="100%">
 </div>
 
 ---
@@ -81,10 +80,7 @@ I don’t just write code; I engineer digital ecosystems. **Atomz Code** is a hi
 
 ## 📊 Live System Status | حالة النظام المباشرة
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AtomzMe&show_icons=true&theme=tokyonight&count_private=true" alt="Atomz GitHub Stats" />
-
-  <br><br>
+<br><br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtomzMe&theme=tokyonight" alt="Atomz Streak Stats" />
 
