@@ -11,7 +11,6 @@
 <br>
 
 <a href="https://t.me/AtomzMe"><img src="https://img.shields.io/badge/Telegram-Contact-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact"></a>
-<a href="https://t.me/AtomzAi"><img src="https://img.shields.io/badge/Telegram-Channel-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
 <a href="https://instagram.com/atomz.labs"><img src="https://img.shields.io/badge/Instagram-atomz.labs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram atomz.labs"></a>
 <a href="https://tiktok.com/@atomz.labs"><img src="https://img.shields.io/badge/TikTok-@atomz.labs-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok @atomz.labs"></a>
 <a href="https://www.reddit.com/user/AT0MzFx/"><img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
